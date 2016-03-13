@@ -1,0 +1,6 @@
+{
+	"autoload":{
+		 "files": ["config/paths.php"],
+		 "psr-4": { "mvc\\": "" }
+	}
+}
